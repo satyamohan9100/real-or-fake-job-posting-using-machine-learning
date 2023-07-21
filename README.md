@@ -7,7 +7,7 @@ candidate can stay alert.
 
 # Algorithms used
 
-Logistic Regression
-Support Vector Machine
+Logistic Regression, 
+Support Vector Machine, 
 KNN(K Nearest Neighbor)
 
